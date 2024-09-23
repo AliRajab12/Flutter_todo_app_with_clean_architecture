@@ -1,6 +1,6 @@
 # flutter_clean_architecture
 
-A new Flutter project.
+A simple todo app using clean architecture and BloC design pattern for state management
 
 ## Getting Started
 
