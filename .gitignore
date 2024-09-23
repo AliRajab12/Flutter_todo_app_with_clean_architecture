@@ -41,3 +41,22 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# Windows
+windows/flutter/ephemeral/
+windows/.dart_tool/
+
+# Linux
+linux/flutter/ephemeral/
+linux/.dart_tool/
+
+# Web
+web/compiled/
+
+# Misc
+*.log
+*.lock
+*.pyc
+*.pyo
+*.DS_Store
